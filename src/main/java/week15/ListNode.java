@@ -2,10 +2,11 @@ package week15;
 
 public class ListNode {
 
-    int val;
-    ListNode next;
+    public int val;
+    public ListNode next;
+    ListNode head;
 
-    ListNode(int x) {
+    public ListNode(int x) {
         val = x;
         next = null;
     }
