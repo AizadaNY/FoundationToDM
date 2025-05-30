@@ -18,4 +18,3 @@ public class MergeTwoSortedList {
         return list2;
     }
 }
-e

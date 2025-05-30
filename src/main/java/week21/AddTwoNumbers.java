@@ -30,6 +30,6 @@ public class AddTwoNumbers {
 
         return dummy.next;
 
-        Integer.MAX_VALUE
+//        Integer.MAX_VALUE
     }
 }
